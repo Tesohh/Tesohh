@@ -1,7 +1,11 @@
 ![alt text](https://github.com/Tesohh/Tesohh/blob/main/bgtesohh.png?raw=true)
 
-
-### SALVE SIGNORE, IO SONO IL TESOHHLINO E MI PIACE BATTERE I TASTI DELLA TASTIERA DEL MIO COMPUTER PORTATILE PER DIGITARE DELLE PAROLE CHE MESSE INSIEME CREANO UNA LISTA DI COMANDI, CHIAMASI ANCHE PROGRAMMA.
+# Introduzione
+SALVE SIGNORE, IO SONO IL TESOHHLINO E MI PIACE BATTERE I TASTI DELLA TASTIERA DEL MIO COMPUTER PORTATILE PER DIGITARE DELLE PAROLE CHE MESSE INSIEME CREANO UNA LISTA DI COMANDI.
+# Progetto attuale
+github.com/Tesohh/cstcgbot : un bot discord che sto facendo con @mat12 e JackSP per giocare a un gioco di carte collezionabili
+# ASDASD?
+Asdasd.
 
 <!--
 **Tesohh/Tesohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
