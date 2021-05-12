@@ -5,7 +5,7 @@ SALVE SIGNORE, IO SONO IL TESOHHLINO E MI PIACE BATTERE I TASTI DELLA TASTIERA D
 # Progetto attuale
 github.com/Tesohh/cstcgbot : un bot discord che sto facendo con @mat12 e JackSP per giocare a un gioco di carte collezionabili
 # ASDASD?
-Asdasd.
+Asdasd. Ci sta direi, asd asd
 
 <!--
 **Tesohh/Tesohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
