@@ -4,7 +4,7 @@
 SALVE SIGNORE, IO SONO IL TESOHHLINO E MI PIACE BATTERE I TASTI DELLA TASTIERA DEL MIO COMPUTER PORTATILE PER DIGITARE DELLE PAROLE CHE MESSE INSIEME CREANO UNA LISTA DI COMANDI.
 # Progetto attuale
 github.com/Tesohh/cstcgbot : un bot discord che sto facendo con @mat12 e filvi e JackSP per giocare a un gioco di carte collezionabili. 
-Scopri di piu su ![offtech.it](https://offtech.it)
+Scopri di piu su offtech.it
 # ASDASD?
 Asdasd. Ci sta direi, asd asd asd
 
