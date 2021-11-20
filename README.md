@@ -1,24 +1,26 @@
-![alt text](https://github.com/Tesohh/Tesohh/blob/main/bgtesohh.png?raw=true)
-
-# Introduzione
-SALVE SIGNORE, IO SONO IL TESOHHLINO E MI PIACE BATTERE I TASTI DELLA TASTIERA DEL MIO COMPUTER PORTATILE PER DIGITARE DELLE PAROLE CHE MESSE INSIEME CREANO UNA LISTA DI COMANDI.
-# Progetto attuale
-github.com/Tesohh/cstcgbot : un bot discord che sto facendo con @mat12 e filvi e JackSP per giocare a un gioco di carte collezionabili. 
-Scopri di piu su offtech.it
-# ASDASD?
-Asdasd. Ci sta direi, asd asd asd
-
-<!--
-**Tesohh/Tesohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *Ciao*, I'm Tesohh!
+```js
+const tesohh = {
+  nationality: '🇮🇹',
+  learning: 'node.js',
+  wantsToLearn: [
+    'typescript',
+    'unity'
+  ],
+  knows: [
+    'python',
+    'node.js'
+    'discord.js',
+    'webdev'
+  ],
+  school: {
+    type: 'Technical Institute',
+    area: 'ITC',
+    url: 'http://www.iisgalilei.eu/'
+  },
+  course: {
+    name: 'Officina Tecnologica',
+    since: 2018,
+    url: 'https://www.canalescuola.it/officina'
+}
+```
