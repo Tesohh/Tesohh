@@ -6,7 +6,7 @@ const tesohh = {
     description: 'The Most Fun Discord Bot In The Universe!',
     language: 'js',
     framework: 'discord.js',
-    category: 'fun bot'
+    category: 'fun bot',
     source: 'closed',
     url: 'https://pyros.netlify.app/vcity'
   },
@@ -17,8 +17,8 @@ const tesohh = {
     framework: 'tmodloader',
     source: 'open',
     url: 'https://github.com/Tesohh/CosmicRuins'
-  }
-  workingWith: 'Mat12143'
+  },
+  workingWith: 'Mat12143',
   nationality: '🇮🇹',
   learning: 'node.js',
   wantsToLearn: [
