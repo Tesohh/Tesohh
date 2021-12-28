@@ -11,3 +11,5 @@
 * Python
 * HTML, CSS
 * A little C#
+
+I COME FROM: ITALY
