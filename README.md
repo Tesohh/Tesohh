@@ -1,9 +1,9 @@
 ### *Ciao*, I'm Tesohh!
-🤹‍♀️ CURRENT PROJECT: I'm working on [VCity](https://pyros.dev/vcity), which is a discord MMORPG! Playable completely for free. (closed source, sorry)
+🤹‍♀️ CURRENT PROJECT: I'm working on [Dreamout](https://dreamout.pyros.dev) which is a bullet hell roguelite, that's all about dreams and nightmares.
 
 👥 CODING PARTNER: Mat12143
 
-🌐 [WEBSITE](https://pyros.dev)
+🌐 [WEBSITE](https://tesohh.pyros.dev)
 
 👨‍💻 PROGRAMMING LANGUAGES I KNOW:
 * Javascript
