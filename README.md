@@ -1,16 +1,13 @@
-### *Ciao*, I'm Tesohh!
+### *Ciao*, I'm Simone "Tesohh" Tesini!
 🤹‍♀️ CURRENT PROJECT: I'm working on [Dreamout](https://dreamout.pyros.dev) which is a bullet hell roguelite, that's all about dreams and nightmares.
 
 🍊 "Company": [Pyros](https://pyros.dev)
-              @Mat12145_
-
-🌐 [WEBSITE](https://tesohh.pyros.dev)
-
-👨‍💻 PROGRAMMING LANGUAGES I KNOW:
+              
+👨‍💻 Technologies i'm familiar with:
 * Javascript
   * Node.js
+* Godot and GDScript
 * Python
-* HTML, CSS
+* Web development
+  * TailwindCSS
 * A little C#
-
-I COME FROM: ITALY
