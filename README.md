@@ -1,1 +1,7 @@
-[![Tesohh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tesohh)](https://github.com/anuraghazra/github-readme-stats)
+```
+  ______                __    __  
+ /_  __/__  _________  / /_  / /_ 
+  / / / _ \/ ___/ __ \/ __ \/ __ \
+ / / /  __(__  ) /_/ / / / / / / /
+/_/  \___/____/\____/_/ /_/_/ /_/ 
+```
