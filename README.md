@@ -15,4 +15,6 @@ my projects vvv
 
 💎 [jademd](https://github.com/Tesohh/jademd) - tool to create a learning platform from an Obsidian vault
 
+🌐 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
+
 📁 [my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, kitty, macOS environment
