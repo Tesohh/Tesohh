@@ -7,14 +7,14 @@
 ```
 my projects vvv
 
-🚁 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
+[torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
-🗑️ [femto](https://github.com/Tesohh/femto) - esoteric terminal text editor built in go
+[femto](https://github.com/Tesohh/femto) - esoteric terminal text editor built in go
 
-🤖 [aluminium](https://github.com/Tesohh/aluminium) - discord bot and CLI to fetch and predict a restaurant's menu
+[aluminium](https://github.com/Tesohh/aluminium) - discord bot and CLI to fetch and predict a restaurant's menu
 
-💎 [jademd](https://github.com/Tesohh/jademd) - tool to create a learning platform from an Obsidian vault
+[jademd](https://github.com/Tesohh/jademd) - tool to create a learning platform from an Obsidian vault
 
-🌐 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
+[http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
 
-📁 [my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, kitty, macOS environment
+[my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, kitty, macOS environment
