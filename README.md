@@ -17,4 +17,6 @@ my projects vvv
 
 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
 
+[bicibz](https://github.com/Tesohh/bicibz) - iOS app to prevent bike thefts in my home town
+
 [my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, kitty, macOS environment
