@@ -16,6 +16,8 @@ my projects vvv
 
 [aoc2024](https://github.com/Tesohh/aoc2024) - my (not finished) solutions for aoc2024 mostly in go
 
+[issues-bot](https://github.com/Tesohh/issues-bot) - discord bot to manage todos in a github issues style
+
 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
 [femto](https://github.com/Tesohh/femto) - esoteric terminal text editor built in go
