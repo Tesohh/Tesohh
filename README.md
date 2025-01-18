@@ -14,15 +14,15 @@ my projects vvv
 
 [bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
-[aoc2024](https://github.com/Tesohh/aoc2024) - my solutions up to day 15 for advent of code 2024 mostly in go
+[aoc2024](https://github.com/Tesohh/aoc2024) - my solutions up to day 15 for advent of code 2024
 
 [issues-bot](https://github.com/Tesohh/issues-bot) - discord bot to manage todos in a github issues style
 
 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
-[femto](https://github.com/Tesohh/femto) - esoteric terminal text editor built in go
-
 [aluminium](https://github.com/Tesohh/aluminium) - discord bot and CLI to fetch and predict a restaurant's menu
+
+[femto](https://github.com/Tesohh/femto) - esoteric terminal text editor built in go
 
 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
 
