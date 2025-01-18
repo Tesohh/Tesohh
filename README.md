@@ -7,7 +7,12 @@
      \ \_\ \____\/\____/\ \____/\ \_\ \_\ \_\ \_\
       \/_/\/____/\/___/  \/___/  \/_/\/_/\/_/\/_/
 ```
+
+languages / technologies i enjoy: go, rust, c, raylib, (svelte if i have to)
+
 my projects vvv
+
+[bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
@@ -15,10 +20,6 @@ my projects vvv
 
 [aluminium](https://github.com/Tesohh/aluminium) - discord bot and CLI to fetch and predict a restaurant's menu
 
-[jademd](https://github.com/Tesohh/jademd) - tool to create a learning platform from an Obsidian vault
-
 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
-
-[bicibz](https://github.com/Tesohh/bicibz) - iOS app to prevent bike thefts in my home town (which won me a contest)
 
 [my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, kitty, macOS environment
