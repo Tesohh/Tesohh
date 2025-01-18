@@ -14,6 +14,8 @@ my projects vvv
 
 [bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
+[aoc2024](https://github.com/Tesohh/aoc2024) - my (not finished) solutions for aoc2024 mostly in go
+
 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
 [femto](https://github.com/Tesohh/femto) - esoteric terminal text editor built in go
