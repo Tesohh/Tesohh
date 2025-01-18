@@ -14,7 +14,7 @@ my projects vvv
 
 [bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
-[aoc2024](https://github.com/Tesohh/aoc2024) - my (not finished) solutions for aoc2024 mostly in go
+[aoc2024](https://github.com/Tesohh/aoc2024) - my solutions up to day 15 for advent of code 2024 mostly in go
 
 [issues-bot](https://github.com/Tesohh/issues-bot) - discord bot to manage todos in a github issues style
 
