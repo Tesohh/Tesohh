@@ -12,6 +12,8 @@ languages / technologies i enjoy: go, rust, c, raylib, (svelte if i have to)
 
 my projects vvv
 
+[bricks](https://github.com/Tesohh/bricks) - build system and package manager for C/C++
+
 [bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
 [aoc2024](https://github.com/Tesohh/aoc2024) - my solutions up to day 15 for advent of code 2024
