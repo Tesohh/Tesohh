@@ -12,6 +12,8 @@ languages / technologies i enjoy: go, rust, c, raylib, (svelte if i have to)
 
 my projects vvv
 
+[open classeviva](https://gitlab.com/lallo.segala/open-classeviva) - Improved frontend for the "ClasseViva" online school register (collaborated as cofounder)
+
 [goat](https://github.com/Tesohh/goat) - self documenting backend framework for go
 
 [bricks](https://github.com/Tesohh/bricks) - build system and package manager for C/C++
@@ -30,4 +32,4 @@ my projects vvv
 
 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
 
-[my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, kitty, macOS environment
+[my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, wezterm, macOS environment
