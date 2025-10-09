@@ -24,6 +24,8 @@ my projects vvv
 
 [issues-bot](https://github.com/Tesohh/issues-bot) - discord bot to manage team todos in a github issues style
 
+[issues-bot-2](https://github.com/Tesohh/issues-bot-2) - (full rewrite of prev project) discord bot to manage team todos in a github issues style
+
 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
 [aluminium](https://github.com/Tesohh/aluminium) - discord bot and CLI to fetch and predict a restaurant's menu
