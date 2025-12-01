@@ -22,13 +22,11 @@ my projects vvv
 
 [aoc2024](https://github.com/Tesohh/aoc2024), [aoc2025](https://github.com/Tesohh/aoc2025) - my solutions for advent of code
 
-[issues-bot](https://github.com/Tesohh/issues-bot) - discord bot to manage team todos in a github issues style
-
-[issues-bot-2](https://github.com/Tesohh/issues-bot-2) - (full rewrite of prev project) discord bot to manage team todos in a github issues style
+[issues-bot](https://github.com/Tesohh/issues-bot), [issues-bot-2](https://github.com/Tesohh/issues-bot-2) - discord bot to manage team todos in a github issues style (and a full rewrite)
 
 [eco-clock](https://repos.hackathon.bz.it/2025-sfscon/team-18) - project for NOI SFSCON Hackathon 2025 - "smart" desk clock to make employees more aware of sustainable choices
 
-[chillbox](https://repos.hackathon.bz.it/2025-summer/team-1) - project for NOI Summer Hackaton 2025 - music app for pools, bars, etc. that creates a shared radio station
+[chillbox](https://repos.hackathon.bz.it/2025-summer/team-1) - project for NOI Summer Hackathon 2025 - music app for pools, bars, etc. that creates a shared radio station
 
 [torcolrs](https://github.com/Tesohh/torcolrs) - esoteric interpreted language built in rust
 
@@ -38,4 +36,4 @@ my projects vvv
 
 [http-rs](https://github.com/Tesohh/http-rs) - CLI to run requests from a .http file
 
-[my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, WM, zsh, wezterm, macOS environment
+[my dotfiles](https://github.com/Tesohh/dotfiles) - neovim, tmux, emacs, WM, zsh, wezterm, macOS environment
