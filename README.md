@@ -18,6 +18,8 @@ my projects vvv
 
 [bricks](https://github.com/Tesohh/bricks) - build system and package manager for C/C++
 
+[omniscience](https://github.com/Tesohh/bricks) (WIP) - bridging different PKMs together to create the ultimate PKM 
+
 [bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
 [aoc2024](https://github.com/Tesohh/aoc2024), [aoc2025](https://github.com/Tesohh/aoc2025) - my solutions for advent of code
