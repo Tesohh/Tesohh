@@ -14,11 +14,13 @@ my projects vvv
 
 [open classeviva](https://gitlab.com/lallo.segala/open-classeviva) - Improved frontend for the "ClasseViva" online school register (collaborated as cofounder)
 
+[omniscience](https://github.com/Tesohh/omniscience) (WIP) - bridging different PKMs together to create the ultimate PKM
+
+[isshues](https://github.com/Tesohh/isshues) (WIP) - project management tool for small teams, served over SSH
+
 [goat](https://github.com/Tesohh/goat) - self documenting backend framework for go
 
 [bricks](https://github.com/Tesohh/bricks) - build system and package manager for C/C++
-
-[omniscience](https://github.com/Tesohh/omniscience) (WIP) - bridging different PKMs together to create the ultimate PKM 
 
 [bicibz](https://github.com/Tesohh/bicibz) - iOS app MVP to prevent bike thefts in my home town ([i won the contest!](https://www.fabriziorocca.it/guide/premio-informatico-fabrizio-rocca-2024/#:~:text=Primo%20Premio:%20BiciBZ%20di%20Simone%20Tesini))
 
