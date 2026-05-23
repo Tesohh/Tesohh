@@ -8,7 +8,7 @@
       \/_/\/____/\/___/  \/___/  \/_/\/_/\/_/\/_/
 ```
 > [!CAUTION]
-> I am moving to Codeberg.
+> I am (slowly) moving to Codeberg.
 > 
 > For the latest versions of my projects (and new projects), visit https://codeberg.org/Tesohh/
 
