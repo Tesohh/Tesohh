@@ -7,6 +7,10 @@
      \ \_\ \____\/\____/\ \____/\ \_\ \_\ \_\ \_\
       \/_/\/____/\/___/  \/___/  \/_/\/_/\/_/\/_/
 ```
+> [!CAUTION]
+> I am moving to Codeberg.
+> 
+> For the latest versions of my projects (and new projects), visit https://codeberg.org/Tesohh/
 
 languages / technologies i enjoy: go, rust, c, raylib, (svelte if i have to)
 
