@@ -16,7 +16,7 @@ my projects vvv
 
 [omniscience](https://github.com/Tesohh/omniscience) (WIP) - bridging different PKMs together to create the ultimate PKM
 
-[isshues](https://github.com/Tesohh/isshues) (WIP) - project management tool for small teams, served over SSH
+[isshues](https://codeberg.org/Tesohh/isshues) (WIP) - project management tool for small teams, served over SSH
 
 [goat](https://github.com/Tesohh/goat) - self documenting backend framework for go
 
