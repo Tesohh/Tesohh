@@ -9,4 +9,4 @@
 ```
 
 > [!CAUTION]
-> MOVED TO CODEBERG https://codeberg.org/Tesohh/
+> Personal projects on https://codeberg.org/Tesohh/
